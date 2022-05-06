@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+    color: #40514E;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto ;
+}
+
+h1{
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;font-family: 'Sacramento', cursive;
+    font-size: 70px;
+    color: #66BFBF;
+    line-height: 0.5;
+}
+h2{
+    color: #66BFBF;
+}
+.top-para{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 , a {
+    color: #11999E;
+}
+
+div{
+    background-color: #fefefe;
+}
+
+.top-container{
+    background-color: rgb(225, 248, 225);
+}
+
+.mountain{
+    width: 1050px;
+}
+
+.cloud1{
+    width: 200px;
+    position: relative;
+    left: 150px;
+    padding-top: 10px;
+
+}
+.cloud2{
+    width: 200px;
+    position: absolute;
+    bottom: 350px;
+    right: 850px;
+}
+
+.profile-text{
+    line-height: 2;
+    color: #40514E;
+}
+.skill-row{
+    width: 50%;
+    margin: 80px auto 80px auto;
+    text-align: left;
+    line-height: 2;
+   
+}
+
+.hacker,.notebook{
+    width: 25%;
+}
+
+.hacker{
+    float: left;
+    margin-right: 30px;
+}
+
+.notebook{
+    float: right;
+    margin-left: 30px;
+}
+
+/* .book-para{
+    clear: right;
+} */
+.profile{
+    margin-top: 50px;
+}
+
+.profile-pic{
+    width: 20%;
+}
+
+.skills{
+    margin-top: 10px;
+}
+
+.bottom-container{
+    background-color: rgb(163, 231, 254) ;
+}
+
+.bottom-container a{
+    text-decoration: none;
+    padding: 50px ;
+}
+.skill-heading{
+    font-size: 35px;
+}
+.btn{
+    text-decoration: none;
+    background-color:rgb(113, 214, 254) ;
+    border-radius: 5px;
+    color: white;
+    padding: 8px;
+    
+}
+
+/* .btn :hover{
+    background-color: rgb(0, 0, 0);
+} */
+.contact-me{
+    margin: 50px auto 50px auto;
+    line-height: 2;
+}
+
+.footer-link{
+    color: #66BFBF;
+}
+
+.bottom-container{
+    padding: 30px ;
+}
+
+.bottom-container p{
+    word-spacing: 1;
+    color: #EAF6F6;
+    font-size: 15px;
+    line-height: 4;
+}
+
+.contact-head{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.btn{
+    padding: 10px 25px 10px 25px;
+}
+
+.btn:hover{
+    background-color: rgb(15, 128, 163);
+
+}
+
+.footer-link:hover{
+    color: black;
+}
